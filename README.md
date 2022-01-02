@@ -1,6 +1,8 @@
 ## Personal Portfolio
 
-### [Live Site](https://2022-portfolio-marksikaundi.vercel.app/)
+### [Live Site] Check below
+
+<img src="sample.PNG" width="300px" height="300px" alt="portfolio">
 
 ![Portfolio Website](https://2022-portfolio-marksikaundi.vercel.app/)
 
